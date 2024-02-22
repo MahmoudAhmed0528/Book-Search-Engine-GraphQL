@@ -37,10 +37,8 @@ The Book Search and Management App provides users with a platform to search for 
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/MahmoudAhmed0528/Book-Search-Engine-GraphQL`
-2. Navigate to the project directory: `cd book-search-app`
-3. Install dependencies for the frontend and backend:
-   `cd Book-Search-Engine-GraphQL`
-   `npm install`
+2. Navigate to the project directory: `cd Book-Search-Engine-GraphQL`
+3. Install dependencies for the frontend and backend:`npm install`
 4. Set up environment variables:
 
 - Create a `.env` file in the `server` directory and add
