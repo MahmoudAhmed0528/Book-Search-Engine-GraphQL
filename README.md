@@ -70,7 +70,7 @@ Contributions are welcome! Please follow these steps:
 
 ## Deployment
 
-- **Heroku:** [Link to deployed App](#)
+- **Heroku:** [Link to deployed App](https://hidden-lake-30002-c49edad008b9.herokuapp.com/)
 
 ## License
 
