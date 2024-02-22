@@ -1,5 +1,5 @@
 {
-  "name": "googlebooks-app",
+  "name": "book-search-engine-graphql",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
@@ -15,6 +15,7 @@
     "concurrently": "^5.1.0"
   },
   "dependencies": {
-    "dotenv": "^16.4.4"
+    "dotenv": "^16.4.4",
+    "mongodb": "^6.3.0"
   }
 }
